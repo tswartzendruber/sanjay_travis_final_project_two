@@ -1,0 +1,151 @@
+Name,Conference,Division,Team,Height,Age,Jersey No.,Position,#
+Trae Young,Eastern,Southeast,Atlanta Hawks,6-1,23,11,G,1
+Clint Capela,Eastern,Southeast,Atlanta Hawks,6-10,27,15,C,2
+John Collins,Eastern,Southeast,Atlanta Hawks,6-9,24,20,F,3
+Danilo Gallinari,Eastern,Southeast,Atlanta Hawks,6-10,33,8,F,4
+Bogdan Bogdanovic,Eastern,Southeast,Atlanta Hawks,6-6,29,13,G,5
+Jayson Tatum,Eastern,Atlantic,Boston Celtics,6-8,24,0,F,6
+Jaylen Brown,Eastern,Atlantic,Boston Celtics,6-6,25,7,G,7
+Marcus Smart,Eastern,Atlantic,Boston Celtics,6-4,28,36,G,8
+Al Horford,Eastern,Atlantic,Boston Celtics,6-9,35,42,C,9
+Robert Williams III,Eastern,Atlantic,Boston Celtics,6-9,24,44,C,10
+Kyrie Irving,Eastern,Atlantic,Brooklyn Nets,6-2,30,11,G,11
+Kevin Durant,Eastern,Atlantic,Brooklyn Nets,6-10,33,7,F,12
+Bruce Brown,Eastern,Atlantic,Brooklyn Nets,6-4,25,1,F,13
+Andre Drummond,Eastern,Atlantic,Brooklyn Nets,6-10,28,0,C,14
+Seth Curry,Eastern,Atlantic,Brooklyn Nets,6-2,31,30,G,15
+Lamelo Ball,Eastern,Southeast,Charlotte Hornets,6-7,20,2,G,16
+Miles Bridges,Eastern,Southeast,Charlotte Hornets,6-7,24,0,F,17
+Terry Rozier,Eastern,Southeast,Charlotte Hornets,6-1,28,3,G,18
+Gordon Hayward,Eastern,Southeast,Charlotte Hornets,6-7,32,20,F,19
+PJ Washington,Eastern,Southeast,Charlotte Hornets,6-7,23,25,F,20
+Lonzo Ball,Eastern,Central,Chicago Bulls,6-6,24,2,G,21
+Zach Lavine,Eastern,Central,Chicago Bulls,6-5,27,8,G,22
+Demar Derozan,Eastern,Central,Chicago Bulls,6-6,32,11,F,23
+Nikola Vucevic,Eastern,Central,Chicago Bulls,6-10,31,9,C,24
+Coby White,Eastern,Central,Chicago Bulls,6-4,22,0,G,25
+Darius Garland,Eastern,Central,Cleveland Cavaliers,6-1,22,10,G,26
+Caris Levert,Eastern,Central,Cleveland Cavaliers,6-6,27,3,G,27
+Jarret Allen,Eastern,Central,Cleveland Cavaliers,6-10,24,31,C,28
+Kevin Love,Eastern,Central,Cleveland Cavaliers,6-8,33,0,F,29
+Evan Mobley,Eastern,Central,Cleveland Cavaliers,6-11,20,20,F,30
+Jalen Brunson,Western,Southwest,Dallas Mavericks,6-1,25,13,G,31
+Luka Doncic,Western,Southwest,Dallas Mavericks,6-7,23,77,G,32
+Spencer Dinwiddie,Western,Southwest,Dallas Mavericks,6-6,29,26,G,33
+Maxi Kleber,Western,Southwest,Dallas Mavericks,6-10,30,42,F,34
+Tim Hardaway Jr.,Western,Southwest,Dallas Mavericks,6-5,30,11,F,35
+Jamal Murray,Western,Northwest,Denver Nuggets,6-3,25,27,G,36
+Michael Porter Jr.,Western,Northwest,Denver Nuggets,6-10,23,1,F,37
+Will Barton,Western,Northwest,Denver Nuggets,6-5,31,5,F,38
+Aaron Gordon,Western,Northwest,Denver Nuggets,6-8,26,50,F,39
+Nikola Jokic,Western,Northwest,Denver Nuggets,6-11,27,15,C,40
+Cade Cunningham,Eastern,Central,Detroit Pistons,6-6,20,2,G,41
+Saddiq Bey,Eastern,Central,Detroit Pistons,6-7,23,41,F,42
+Marvin Bagley III,Eastern,Central,Detroit Pistons,6-11,23,35,F,43
+Jerami Grant,Eastern,Central,Detroit Pistons,6-8,28,9,F,44
+Killian Hayes,Eastern,Central,Detroit Pistons,6-5,20,7,G,45
+Stephen Curry,Western,Pacific,Golden State Warriors,6-2,34,30,G,46
+Klay Thompson,Western,Pacific,Golden State Warriors,6-6,32,11,G,47
+Jordan Poole,Western,Pacific,Golden State Warriors,6-4,22,3,G,48
+Draymond Green,Western,Pacific,Golden State Warriors,6-6,32,23,F,49
+Andrew Wiggins,Western,Pacific,Golden State Warriors,6-7,27,22,F,50
+Jalen Green,Western,Southwest,Houston Rockets,6-4,20,0,G,51
+Kevin Porter Jr.,Western,Southwest,Houston Rockets,6-4,21,3,G,52
+Christian Wood,Western,Southwest,Houston Rockets,6-9,26,35,C,53
+Alperen Sengun,Western,Southwest,Houston Rockets,6-10,19,28,C,54
+Jae'Sean Tate,Western,Southwest,Houston Rockets,6-4,26,8,F,55
+Tyrese Haliburton,Eastern,Central,Indiana Pacers,6-5,22,0,G,56
+Buddy Hield,Eastern,Central,Indiana Pacers,6-4,29,24,G,57
+Myles Turner,Eastern,Central,Indiana Pacers,6-11,26,33,C,58
+Malcolm Brogdon,Eastern,Central,Indiana Pacers,6-5,29,7,G,59
+TJ Warren,Eastern,Central,Indiana Pacers,6-8,28,1,F,60
+Kawhi Leonard,Western,Pacific,Los Angeles Clippers,6-7,30,2,F,61
+Paul George,Western,Pacific,Los Angeles Clippers,6-8,31,13,G,62
+Reggie Jackson,Western,Pacific,Los Angeles Clippers,6-2,32,1,G,63
+Ivica Zubac,Western,Pacific,Los Angeles Clippers,7-0,25,40,C,64
+Marcus Morris Sr.,Western,Pacific,Los Angeles Clippers,6-8,32,8,F,65
+Russell Westbrook,Western,Pacific,Los Angeles Lakers,6-3,33,0,G,66
+Lebron James,Western,Pacific,Los Angeles Lakers,6-9,37,6,F,67
+Anthony Davis,Western,Pacific,Los Angeles Lakers,6-10,29,3,F,68
+Carmelo Anthony,Western,Pacific,Los Angeles Lakers,6-7,37,7,F,69
+Malik Monk,Western,Pacific,Los Angeles Lakers,6-3,24,11,G,70
+Ja Morant,Western,Southwest,Memphis Grizzlies,6-3,22,12,G,71
+Jaren Jackson Jr.,Western,Southwest,Memphis Grizzlies,6-11,22,13,F,72
+Dillon Brooks,Western,Southwest,Memphis Grizzlies,6-7,26,24,F,73
+Desmond Bane,Western,Southwest,Memphis Grizzlies,6-5,23,22,G,74
+Brandon Clarke,Western,Southwest,Memphis Grizzlies,6-8,25,15,F,75
+Jimmy Butler,Eastern,Southeast,Miami Heat,6-7,32,22,F,76
+Bam Adebayo,Eastern,Southeast,Miami Heat,6-9,24,13,C,77
+Kyle Lowry,Eastern,Southeast,Miami Heat,6-0,36,7,G,78
+Tyler Herro,Eastern,Southeast,Miami Heat,6-5,22,14,G,79
+Victor Oladipo,Eastern,Southeast,Miami Heat,6-4,29,4,G,80
+Jrue Holiday,Eastern,Central,Milwaukee Bucks,6-3,31,21,G,81
+Kris Middleton,Eastern,Central,Milwaukee Bucks,6-7,30,22,F,82
+Brook Lopez,Eastern,Central,Milwaukee Bucks,7-0,34,11,C,83
+Bobby Portis,Eastern,Central,Milwaukee Bucks,6-10,27,9,C,84
+Giannis Antetokounmpo,Eastern,Central,Milwaukee Bucks,6-11,27,34,F,85
+Karl-Anthony Towns,Western,Northwest,Minnesota Timberwolves,6-11,26,32,C,86
+Patrick Beverley,Western,Northwest,Minnesota Timberwolves,6-1,33,22,G,87
+Anthony Edwards,Western,Northwest,Minnesota Timberwolves,6-4,20,1,F,88
+De'Angelo Russell,Western,Northwest,Minnesota Timberwolves,6-4,26,0,G,89
+Malik Beasley,Western,Northwest,Minnesota Timberwolves,6-4,25,5,G,90
+Zion Williamson,Western,Southwest,New Orleans Pelicans,6-6,21,1,F,91
+Brandon Ingram,Western,Southwest,New Orleans Pelicans,6-8,24,14,F,92
+CJ McCollum,Western,Southwest,New Orleans Pelicans,6-3,30,3,G,93
+Jonas Valanciunas,Western,Southwest,New Orleans Pelicans,6-11,29,17,C,94
+Devonte Graham,Western,Southwest,New Orleans Pelicans,6-1,27,4,G,95
+Julius Randle,Eastern,Atlantic,New York Knicks,6-8,27,30,F,96
+RJ Barrett,Eastern,Atlantic,New York Knicks,6-6,21,9,G,97
+Mitchell Robinson,Eastern,Atlantic,New York Knicks,7-0,24,23,C,98
+Derrick Rose,Eastern,Atlantic,New York Knicks,6-2,33,4,G,99
+Evan Fournier,Eastern,Atlantic,New York Knicks,6-6,29,13,G,100
+Shai Gilgeous Alexander,Western,Northwest,Oklahoma City Thunder,6-6,23,2,G,101
+Josh Giddey,Western,Northwest,Oklahoma City Thunder,6-8,19,3,G,102
+Aleksej Pokusevski,Western,Northwest,Oklahoma City Thunder,7-0,20,17,C,103
+Luguentz Dort,Western,Northwest,Oklahoma City Thunder,6-3,23,5,F,104
+Darius Bazley,Western,Northwest,Oklahoma City Thunder,6-8,21,7,F,105
+Markelle Fultz,Eastern,Southeast,Orlando Magic,6-4,23,20,G,106
+Wendell Carter Jr.,Eastern,Southeast,Orlando Magic,6-10,23,34,C,107
+Cole Anthony,Eastern,Southeast,Orlando Magic,6-3,21,50,G,108
+Jalen Suggs,Eastern,Southeast,Orlando Magic,6-5,20,4,G,109
+Jonathan Isaac,Eastern,Southeast,Orlando Magic,6-10,24,1,F,110
+Joel Embiid,Eastern,Atlantic,Philadelphia 76ers,7-0,28,21,C,111
+James Harden,Eastern,Atlantic,Philadelphia 76ers,6-5,32,1,G,112
+Tyrese Maxey,Eastern,Atlantic,Philadelphia 76ers,6-2,21,0,G,113
+Tobias Harris,Eastern,Atlantic,Philadelphia 76ers,6-7,29,12,F,114
+Matisse Thybulle,Eastern,Atlantic,Philadelphia 76ers,6-5,25,22,G,115
+Devin Booker,Western,Pacific,Phoenix Suns,6-5,25,1,G,116
+Chris Paul,Western,Pacific,Phoenix Suns,6-0,36,3,G,117
+Deandre Ayton,Western,Pacific,Phoenix Suns,6-11,23,22,C,118
+Mikal Bridges,Western,Pacific,Phoenix Suns,6-6,25,25,F,119
+Jae Crowder,Western,Pacific,Phoenix Suns,6-6,31,99,F,120
+Damian Lillard,Western,Northwest,Portland Trail Blazers,6-2,31,0,G,121
+Anfernee Simons,Western,Northwest,Portland Trail Blazers,6-3,22,1,G,122
+Josh Hart,Western,Northwest,Portland Trail Blazers,6-5,27,11,G,123
+Nasir Little,Western,Northwest,Portland Trail Blazers,6-5,22,9,F,124
+Jusuf Nurkic,Western,Northwest,Portland Trail Blazers,6-11,27,27,C,125
+De'Aaron Fox,Western,Pacific,Sacramento Kings,6-3,24,5,G,126
+Domantas Sabonis,Western,Pacific,Sacramento Kings,6-11,25,10,F,127
+Davion Mitchell,Western,Pacific,Sacramento Kings,6-0,23,15,G,128
+Harrison Barnes,Western,Pacific,Sacramento Kings,6-8,29,40,F,129
+Richaun Holmes,Western,Pacific,Sacramento Kings,6-10,28,22,C,130
+Dejounte Murray,Western,Southwest,San Antonio Spurs,6-4,25,5,G,131
+Jakob Poeltl,Western,Southwest,San Antonio Spurs,7-1,26,25,C,132
+Keldon Johnson,Western,Southwest,San Antonio Spurs,6-6,22,3,F,133
+Lonnie Walker IV,Western,Southwest,San Antonio Spurs,6-4,23,1,G,134
+Devin Vassell,Western,Southwest,San Antonio Spurs,6-5,21,24,G,135
+Fred VanVleet,Eastern,Atlantic,Toronto Raptors,6-1,28,23,G,136
+Pascal Siakam,Eastern,Atlantic,Toronto Raptors,6-8,28,43,F,137
+Scottie Barnes,Eastern,Atlantic,Toronto Raptors,6-7,20,4,F,138
+Gary Trent Jr.,Eastern,Atlantic,Toronto Raptors,6-5,23,33,G,139
+OG Anunoby,Eastern,Atlantic,Toronto Raptors,6-7,24,3,F,140
+Donovan Mitchell,Western,Northwest,Utah Jazz,6-1,25,45,G,141
+Rudy Gobert,Western,Northwest,Utah Jazz,7-1,29,27,C,142
+Mike Conley,Western,Northwest,Utah Jazz,6-1,34,11,G,143
+Royce O'Neale,Western,Northwest,Utah Jazz,6-5,28,23,F,144
+Bojan Bogdanovic,Western,Northwest,Utah Jazz,6-7,33,44,F,145
+Bradley Beal,Eastern,Southeast,Washington Wizards,6-4,28,3,G,146
+Kyle Kuzma,Eastern,Southeast,Washington Wizards,6-9,26,33,F,147
+Kristaps Porzingis,Eastern,Southeast,Washington Wizards,7-3,26,6,C,148
+Rui Hachimura,Eastern,Southeast,Washington Wizards,6-8,24,8,F,149
+Daniel Gafford,Eastern,Southeast,Washington Wizards,6-9,23,21,C,150
